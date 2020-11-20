@@ -1,0 +1,27 @@
+{
+  "name": "jsrepo",
+  "version": "1.0.0",
+  "description": "Initial development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "hesham": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hesham-gad/jsRepo.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Hesham Gad <hesham.gad@variableassign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hesham-gad/jsRepo/issues"
+  },
+  "homepage": "https://github.com/hesham-gad/jsRepo#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
